@@ -2,6 +2,8 @@ RUC Reminder
 
 RUC Reminder is an iOS app that allows Tesla owners to connect their Tesla account and retrieve their vehicle's odometer reading. The app sends reminders when Road User Charges (RUC) are due, helping users stay compliant and avoid penalties.
 
+<img width="379" alt="Screenshot 2025-03-30 at 3 52 02 PM" src="https://github.com/user-attachments/assets/f2e40cb6-b06c-4c80-8a55-2cf1ed8e30c6" />
+
 Features
 
 🔐 Securely connect to your Tesla account
