@@ -15,19 +15,19 @@ Features
 Installation
 
 📥 Clone the repository:
-
+```bash
 git clone https://github.com/yourusername/RUC-Reminder.git
-
+```
 📂 Navigate to the project directory:
-
+```bash
 cd RUC-Reminder
-
+```
 🛠️ Open RUCReminder.xcodeproj in Xcode.
 
 📦 Install dependencies using CocoaPods (if applicable):
-
+```bash
 pod install
-
+```
 ▶️ Build and run the project on a simulator or connected device.
 
 Requirements
@@ -53,17 +53,17 @@ Contributions are welcome! Please follow these steps:
 🍴 Fork the repository.
 
 🌿 Create a new branch:
-
+```bash
 git checkout -b feature-branch
-
+```
 📝 Make your changes and commit them:
-
+```bash
 git commit -m "Added new feature"
-
+```
 🚀 Push to your fork:
-
+```bash
 git push origin feature-branch
-
+```
 🔄 Submit a pull request.
 
 License
